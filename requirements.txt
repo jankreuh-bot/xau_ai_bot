@@ -1,0 +1,9 @@
+flask
+yfinance
+pandas
+pandas_ta
+matplotlib
+mplfinance
+python-telegram-bot==13.15
+numpy
+requests
