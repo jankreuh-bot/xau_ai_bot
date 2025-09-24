@@ -1,9 +1,9 @@
-flask
-yfinance
-pandas
-pandas_ta
-matplotlib
-mplfinance
+flask==2.2.5
 python-telegram-bot==13.15
-numpy
-requests
+requests==2.31.0
+finnhub-python==2.4.17
+pillow==9.5.0
+matplotlib==3.7.1
+numpy==1.24.3
+pandas==2.0.3
+imghdr-py==0.3
