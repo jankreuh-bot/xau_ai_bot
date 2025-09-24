@@ -7,4 +7,3 @@ mplfinance
 python-telegram-bot==13.15
 numpy
 requests
-imghdr-py==0.3
